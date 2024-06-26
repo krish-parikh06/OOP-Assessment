@@ -10,4 +10,3 @@ captainHook.set_weakness("sword")
 print("What will you fight with? ")
 fight_with = input()
 captainHook.fight(fight_with)
-
